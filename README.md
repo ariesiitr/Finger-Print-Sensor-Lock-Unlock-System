@@ -16,4 +16,9 @@ Authentication Workflow:
 3. Relay Control and Solenoid Lock Operation: Upon successful fingerprint authentication, the Arduino board sends a signal to control the relay module, which in turn switches the power supply to the solenoid lock. The lock is either unlocked or locked based on the authentication result.
 
 Power Supply and Deployment:
-The system can be powered using a stable power source, such as a mains power supply or a battery with appropriate power management techniques. The relay module is connected to the Arduino board, and the solenoid lock is controlled via the relay module. The entire system can be housed in a secure enclosure suitable for the deployment environment.
+The system can be powered using a stable power source, such as a mains power supply or a battery, with appropriate power management techniques. The relay module is connected to the Arduino board, and the solenoid lock is controlled via the relay module. The entire system can be housed in a secure enclosure suitable for the deployment environment.
+
+
+Contributors:
+Som Pratap Singh (Github ID - som-123)
+Prateek Verma (Github ID - Prateek023)
